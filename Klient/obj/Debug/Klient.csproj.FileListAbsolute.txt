@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\OOP1\Klient\bin\Debug\Klient.exe.config
+C:\Users\Admin\Documents\OOP1\Klient\bin\Debug\Klient.exe
+C:\Users\Admin\Documents\OOP1\Klient\bin\Debug\Klient.pdb
+C:\Users\Admin\Documents\OOP1\Klient\obj\Debug\Klient.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\OOP1\Klient\obj\Debug\Klient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\OOP1\Klient\obj\Debug\Klient.exe
+C:\Users\Admin\Documents\OOP1\Klient\obj\Debug\Klient.pdb
